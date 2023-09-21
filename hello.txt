@@ -12,6 +12,6 @@ hello git! hello nly!
 hello git! hello nly!
 hello git! hello nly!
 hello git! hello nly!
-hello git! hello nly!
+hello git! hello nly!  hot-fix
 hello git! hello nly!
 hello git! hello nly!  master
